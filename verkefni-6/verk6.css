@@ -1,0 +1,22 @@
+body {
+    
+        height: 100%;
+        background-color: red; /* For browsers that do not support gradients */
+        background-image: linear-gradient(to bottom, blue , silver); /* Standard syntax (must be last) */
+      
+}
+div.style {
+    margin: auto;
+    border-radius: 100%;
+    background: black;
+    background-image: linear-gradient(to bottom, silver, blue); /* Standard syntax (must be last) */
+    padding: 25%; 
+    width: 11%;
+    height: 22%;
+    text-align: center;
+}
+h1 {
+    margin: auto;
+    font-size: 300%;
+    color: #9b111e;
+}

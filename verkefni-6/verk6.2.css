@@ -1,0 +1,38 @@
+body {
+    
+    height: 100%;
+    background-color: red; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom, silver, blue); /* Standard syntax (must be last) */
+  
+}
+
+.a {
+    color: #9b111e;
+    font-family:"Comic Sans MS", cursive, sans-serif ;
+    font-size: 150%;
+    text-align: center;
+    margin-left: 75%;
+    float: right;
+    border-style: none;
+}
+
+.a1 {
+    color: #9b111e;
+    font-family:"Comic Sans MS", cursive, sans-serif ;
+    font-size: 150%;
+    text-align: center;
+    margin-left: 45%;
+    margin-right: 30%;
+    margin-top: 0%;
+    float: right;
+}
+
+.a2 {
+    color: #9b111e;
+    font-family:"Comic Sans MS", cursive, sans-serif ;
+    font-size: 150%;
+    text-align: center;
+    margin-left: 0%;
+    margin-right: 50%;
+    float: left;
+}
